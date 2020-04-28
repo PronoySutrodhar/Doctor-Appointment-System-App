@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sada"
+    >
+
+
+    <TextView
+        android:id="@+id/tvdoctorname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Name:Pronoy"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvdoctortype"
+        android:layout_below="@id/tvdoctorname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Type:Medicine"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvdoctorqualification"
+        android:layout_below="@id/tvdoctortype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Qualification:MBBS in DMC"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvdoctorduty"
+        android:layout_below="@id/tvdoctorqualification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Duty Time:Morning(8am-2pm)"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/doctorpic"
+        android:layout_width="80dp"
+        android:layout_margin="10dp"
+        android:layout_height="100dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/doctorpic"/>
+</RelativeLayout>

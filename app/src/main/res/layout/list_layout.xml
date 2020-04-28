@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sada"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvpname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Name:pronoy"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvpage"
+        android:layout_below="@id/tvpname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="Age:20"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+       android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvpdoctor"
+        android:layout_below="@id/tvpage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Doctor:Medicine"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_below="@id/tvpdoctor"
+        android:id="@+id/tvpcontact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="01988653384"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textStyle="bold" />
+    <ImageView
+        android:id="@+id/callicon"
+        android:layout_width="40dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:src="@drawable/call"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">YLogin</string>
+    <string name="pg">Bangabandhu Sheikh Mujib Medical University (BSMMU) is the premier Postgraduate Medical Institution of the country. It bears the heritage to Institute of Postgraduate Medical Research (IPGMR) which was established in December 1965.
+        In the year 1998 the Government converted IPGMR into a Medical University for expanding the facilities for higher medical education and research in the country.
+        It has an enviable reputation for providing high quality postgraduate education in different specialties.
+        The university has strong link with other professional bodies at home and abroad.
+        The university is expanding rapidly and at present, the university has many departments equipped with modern technology for service, teaching and research.
+        Besides education, the university plays the vital role of promoting research activities in various discipline of medicine.
+        Since its inception, the university has also been delivering general and specialized clinical service as a tertiary level healthcare center.
+        Renamed as BSMMU (Bangabandhu Sheikh Mujib Medical University) is essentially an upgradation of the Institute of Postgraduate Medicine and Research (IPGMR), popularly referred to as PG. The university offers MD, MS, M.Phil, MDS, Diploma and FCPS Courses.
+
+IPGMR was established in East Pakistan (now Bangladesh) by the then Government of Pakistan in December 1965, as a Government-controlled postgraduate institute for medical research and studies. It was housed in the now defunct Shahbagh hotel premises, once the prestigious hotel in Dhaka at Shahnagh. From 2010, many of the medical and public health colleges/institutes have come under common affiliation such as BIRDEM, BIHS, DMC, NICVD, NITOR and many others. In different post graduation courses many foreign students are studying.
+
+It was renamed as Bangabandhu Sheikh Mujib Medical University by the Act (No. 1, 1998) of Jatiyo Sangshad after the first President of Bangladesh, Bangabandhu Sheikh Mujibur Rahman.
+
+The university is now autonomous body governed by a 24-member syndicate and comprises 36 Departments under 4 faculties. It has a compact campus with a 1500 bedded hospital. It is is also equipped with a modern academic library as well as a separate digital library.
+
+The Campus has five main multistoried buildings that are identified as Blocks A, B, C, D and Cabin Block.
+•	Block A (a eight-story building) that accommodates the library, lecture theatre, auditorium, students hostel, dental faculty and blood transfusion services.
+•	Block B is a six-story building that houses the administrative offices and nursing quarters. It is the original building of Hotel Shahbag.
+•	Block C comprises a 10-story hospital.
+•	Block D, a 17-story building, houses several laboratories and emergency units.
+•	The Cabin Block is dedicated to the casualty department and several other out-patient departments.
+New facilities are coming expanding the in existing campus on the north and west.
+
+    </string>
+    <string-array name="doctor_catagory">
+        <item>Medicine</item>
+        <item>Neuroserjon</item>
+        <item>Skin</item>
+        <item>Orthopedics</item>
+        <item>Physetheropy</item>
+        <item>Dental</item>
+        <item>Kiney</item>
+        <item>Chest</item>
+        <item>Spain</item>
+        <item>Ear,Nose</item>
+        <item>Brain</item>
+        <item>Diabets</item>
+        <item>Child</item>
+        <item>Gestroliver</item>
+        <item>Eye</item>
+        <item>Hair</item>
+    </string-array>
+
+    <string name="Denguprice">
+       DENGU NS1 900tk</string>
+    <string name="cbc">Blood CBC 750tk</string>
+    <string name="rbc">Blood RBC 750tk</string>
+    <string name="platilate">Blood Platilate 2250tk</string>
+    <string name="lipide">Blood Lipide profile 1450tk</string>
+    <string name="protien">Blood Protien Profile 1100tk</string>
+    <string name="Map_key">AIzaSyBgaNpjTmujxmufXt1qAQsHcXyY2n8JLWQ</string>
+
+</resources>
+

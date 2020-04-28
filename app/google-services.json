@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13736643739",
+    "firebase_url": "https://ylogin-7b5ce.firebaseio.com",
+    "project_id": "ylogin-7b5ce",
+    "storage_bucket": "ylogin-7b5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13736643739:android:ed4eebf4eda2195f",
+        "android_client_info": {
+          "package_name": "com.example.ylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13736643739-j7rhrshajqnipoghej97g0ra2tmp972s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ylogin",
+            "certificate_hash": "637b5d9a3d5c81621ee383ddd50fdf9d5d455beb"
+          }
+        },
+        {
+          "client_id": "13736643739-qegmm42s4mbfqum1n66i06qm69eeab0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_dI6b61-LNKpWW6kuYujEtAMVsR02uh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13736643739-qegmm42s4mbfqum1n66i06qm69eeab0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
